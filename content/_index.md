@@ -1,6 +1,6 @@
 ---
 hero:
-  heading: 一花一世界，一岁一枯荣，花开在这里，来看吧.
+  heading: 我热爱这个世界
   maxWidthPX: 652
 seo:
   image: /images/hero-2.jpg

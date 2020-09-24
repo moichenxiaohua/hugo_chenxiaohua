@@ -1,4 +1,15 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "Novela"
+languageCode = "zh-cn"
+title = "Chen Xiaohua's Site"
+theme = "novela"
+
+paginate = 6
+
+pygmentsstyle='monokai'
+
+[taxonomies]
+  category = "categories"
+
+[social]
+  twitter="#"
+  github="#"

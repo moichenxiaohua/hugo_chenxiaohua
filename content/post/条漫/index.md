@@ -1,7 +1,9 @@
 ---
 title: "条漫"
-# hero: "/images/Cover/strip01.jpg"
-hero: "/images/hero-3.jpg"
+hero: "/images/Cover/head03.jpg"
+# hero: "/images/hero-3.jpg"
+authors: 
+    - Xiao hua
 date: 2020-09-23T23:40:29+08:00
 ---
 
